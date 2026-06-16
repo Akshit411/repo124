@@ -23,7 +23,7 @@ As a SmartHub admin user, I should have access to default ready-to-use conversat
 This repository contains a simple C# domain model and service/repository interfaces to support default chatbot configuration behavior.
 
 ## Classes
-- `Chatbot`
+- `Chatbot123`
 - `ChatbotConfiguration`
 - `DefaultConfigurationTemplate`
 - `PromptInstructionSet`
