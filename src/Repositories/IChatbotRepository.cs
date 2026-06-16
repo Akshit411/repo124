@@ -5,7 +5,7 @@ namespace Repo124.Repositories
 {
     public interface IChatbotRepository
     {
-        Chatbot GetById(Guid chatbotId);
-        void Save(Chatbot chatbot);
+        Chatbot123 GetById(Guid chatbotId);
+        void Save(Chatbot123 chatbot);
     }
 }
